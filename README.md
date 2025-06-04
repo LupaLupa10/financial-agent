@@ -6,6 +6,7 @@ An intelligent financial agent designed to analyze and act on financial data usi
 
 ## 📁 Project Structure
 
+```bash
 financial-agent/
 │
 ├── data/ # Financial datasets (raw, processed)
@@ -19,7 +20,7 @@ financial-agent/
 ├── pyproject.toml # Poetry configuration file
 ├── README.md # Project documentation
 └── ...
-
+```
 ---
 
 ## 🚀 Features
