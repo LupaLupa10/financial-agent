@@ -1,0 +1,154 @@
+# # Python
+# __pycache__/
+# *.py[cod]
+# *$py.class
+# *.so
+# .Python
+# build/
+# develop-eggs/
+# dist/
+# downloads/
+# eggs/
+# .eggs/
+# lib/
+# lib64/
+# parts/
+# sdist/
+# var/
+# wheels/
+# share/python-wheels/
+# *.egg-info/
+# .installed.cfg
+# *.egg
+# MANIFEST
+
+# # Poetry
+# poetry.lock
+
+# # Virtual Environments
+# .env
+# .venv
+# env/
+# venv/
+# ENV/
+# env.bak/
+# venv.bak/
+
+# # IDE - VSCode
+# .vscode/*
+# !.vscode/settings.json
+# !.vscode/tasks.json
+# !.vscode/launch.json
+# !.vscode/extensions.json
+# *.code-workspace
+
+# # IDE - PyCharm
+# .idea/
+# *.iml
+# *.iws
+# .idea_modules/
+
+# # IDE - Jupyter Notebook
+# .ipynb_checkpoints
+# *.ipynb
+
+# # Database
+# *.sqlite3
+# *.db
+
+# # Logs
+# *.log
+# logs/
+# log/
+
+# # Unit test / coverage reports
+# htmlcov/
+# .tox/
+# .nox/
+# .coverage
+# .coverage.*
+# .cache
+# nosetests.xml
+# coverage.xml
+# *.cover
+# *.py,cover
+# .hypothesis/
+# .pytest_cache/
+# cover/
+
+# # mypy
+# .mypy_cache/
+# .dmypy.json
+# dmypy.json
+
+# # Environments
+# .env.local
+# .env.development
+# .env.test
+# .env.production
+# .env.staging
+
+# # Distribution / packaging
+# .Python
+# build/
+# develop-eggs/
+# dist/
+# downloads/
+# eggs/
+# .eggs/
+# lib/
+# lib64/
+# parts/
+# sdist/
+# var/
+# wheels/
+# *.egg-info/
+# .installed.cfg
+# *.egg
+# MANIFEST
+
+# # Mac OS
+# .DS_Store
+# .AppleDouble
+# .LSOverride
+# Icon
+# ._*
+
+# # Windows
+# Thumbs.db
+# ehthumbs.db
+# Desktop.ini
+# $RECYCLE.BIN/
+# *.cab
+# *.msi
+# *.msm
+# *.msp
+# *.lnk
+
+# # Data files
+# *.csv
+# *.xlsx
+# *.xls
+# *.json
+# *.yaml
+# *.yml
+# !example.yml
+# !example.yaml
+# !example.json
+
+# # Backup files
+# *.bak
+# *.swp
+# *.swo
+# *~
+
+# # Project specific
+# output/
+# data/
+# results
+# temp/
+# tmp/
+
+.env
+data/
+.DS_Store
